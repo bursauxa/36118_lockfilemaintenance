@@ -1,8 +1,2 @@
 {
-    "skipInstalls": false,
-    "lockFileMaintenance": {
-      "enabled": true,
-      "schedule": null
-    }
 }
-
